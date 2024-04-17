@@ -1,4 +1,5 @@
-👋 Hi, I’m @Rizwanali324!
+# Hello I’m Rizwan!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rizwan-muzammal-9a3557299/)
 
 1. Undergraduate statistics student
 2. CV intern @ SINES AR lab @ NUST, PAKISTAN 
