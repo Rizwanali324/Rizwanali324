@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rizwan</h1>
-<h3 align="center">An ML/DL engineer from Pakistan</h3>
+<p align="center"><a href="https://avipatilweb.ml/"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p><br>
+
+<h3 align="center">An ML/DL Engineer from Pakistan</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rizwan-muzammal-9a3557299/)
 
@@ -8,7 +10,7 @@
 
 - 🔭 I’m currently service in **CV intern @ SINES AR lab @ NUST, PAKISTAN **
 
-- 🌱 I’m currently learning **Computer Vision & 3D Computer Vision**
+- 🌱 I’m currently learning **Computer Vision Analytics**
 
 - 💬 Ask me about **Python,Machine/Deep Learning, Tensorflow, Pytorch**
 
