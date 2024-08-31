@@ -8,9 +8,9 @@
 
 - 🔭 I’m X MLE @  **DEV Valley Software house, PAKISTAN **
 
-- 🔭 I’m currently service in **CV intern @ SINES AR lab @ NUST, PAKISTAN **
+- 🔭 I’m X  **CV intern @ SINES AR lab @ NUST, PAKISTAN **
 
-- 🌱 I’m currently learning **Computer Vision Analytics**
+- 🌱 I’m currently providing services **AI Freelancing**
 
 - 💬 Ask me about **Python,Machine/Deep Learning, Tensorflow, Pytorch**
 
