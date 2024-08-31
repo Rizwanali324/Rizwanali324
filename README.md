@@ -3,7 +3,8 @@
 
 <h3 align="center">An ML/DL Engineer from Pakistan</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rizwan-muzammal-9a3557299/)[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat)](https://www.datascienceportfol.io/RizwanMuzammal)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rizwan-muzammal-9a3557299/)[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat)](https://www.datascienceportfol.io/RizwanMuzammal)[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Scoopsie-t2b)
+
 
 - 🔭 I’m X MLE @  **DEV Valley Software house, PAKISTAN **
 
