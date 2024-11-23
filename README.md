@@ -11,6 +11,7 @@
 - 🔭 I’m X  **CV intern @ SINES AR lab @ NUST, PAKISTAN **
 
 - 🌱 I’m currently providing services **AI Freelancing**
+- MY FVRT GPU https://goto.now/HR60f
 
 - 💬 Ask me about **Python,Machine/Deep Learning, Tensorflow, Pytorch**
 
