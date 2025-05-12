@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rizwan</h1>
 <p align="center"><a href="https://avipatilweb.ml/"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p><br>
 
-<h3 align="center">An ML/DL Engineer from Pakistan</h3>
+<h3 align="center">Full-Stack CV Developer Engineer from Pakistan</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rizwan-muzammal-9a3557299/)[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat)](https://www.datascienceportfol.io/RizwanMuzammal)[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Scoopsie-t2b)
 
@@ -11,6 +11,7 @@
 - 🔭 I’m X  **CV intern @ SINES AR lab @ NUST, PAKISTAN **
 
 - 🌱 I’m currently providing services **AI Freelancing**
+-   Building scalable vision apps with NVIDIA 4090, Jetson, & Pi for retail, security, and manufacturing.
 - MY FVRT GPU https://goto.now/HR60f
 
 - 💬 Ask me about **Python,Machine/Deep Learning, Tensorflow, Pytorch**
